@@ -1,4 +1,4 @@
 Приложение для сокращения ссылок. С возможностью устанавливать время жизни ссылки и количество переходов
 
-teleg: @seriiioga
+teleg: @seriiioga<br>
 email: doctorradial@gmail.com
